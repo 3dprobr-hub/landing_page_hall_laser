@@ -42,7 +42,7 @@ function App() {
                             }}
                         />
                         <div className="text-2xl font-black tracking-tighter text-white" style={{ display: 'none' }}>
-                            HAL<span className="text-blue-500">LASER</span>
+                            HALLASER
                         </div>
                     </div>
 
@@ -104,9 +104,9 @@ function App() {
                             transition={{ duration: 0.8 }}
                         >
                             <div className="text-5xl md:text-8xl font-black tracking-tighter text-white mb-4">
-                                HAL<span className="text-blue-500">LASER</span> STEEL
+                                HALLASER STEEL
                             </div>
-                            <h2 className="text-xl md:text-3xl font-bold text-blue-400 uppercase tracking-widest mb-8">
+                            <h2 className="text-xl md:text-3xl font-bold text-white uppercase tracking-widest mb-8">
                                 TECNOLOGIA EM CORTE E CONFORMAÇÃO DE METAIS
                             </h2>
                             <p className="text-lg md:text-xl text-gray-300 max-w-3xl mx-auto mb-12 leading-relaxed">
