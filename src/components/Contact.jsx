@@ -22,7 +22,7 @@ const About = () => {
                         transition={{ delay: 0.2 }}
                         className="text-xl text-gray-300 leading-relaxed mb-8"
                     >
-                        A Hall Laser Steel atua há mais de 10 anos no mercado de corte laser, dobra CNC e conformação de metais, oferecendo soluções completas para empresas de todos os segmentos industriais.
+                        A Hallaser Steel atua há mais de 10 anos no mercado de corte laser, dobra CNC e conformação de metais, oferecendo soluções completas para empresas de todos os segmentos industriais.
                     </motion.p>
                     <motion.p
                         initial={{ opacity: 0, y: 20 }}
@@ -117,7 +117,7 @@ const MainFooter = () => {
         <footer className="bg-black py-12 border-t border-white/5">
             <div className="container mx-auto px-4 text-center">
                 <p className="text-gray-500 text-sm">
-                    &copy; {new Date().getFullYear()} Hall Laser Steel. Todos os direitos reservados.<br />
+                    &copy; {new Date().getFullYear()} Hallaser Steel. Todos os direitos reservados.<br />
                     Tecnologia em Corte e Conformação de Metais.
                 </p>
             </div>
