@@ -83,7 +83,7 @@ const ServiceBlock = ({ service, index }) => {
                         transition={{ duration: 0.8 }}
                         className="w-full lg:w-1/2 text-left"
                     >
-                        <h2 className={`text-3xl md:text-5xl font-black mb-6 ${service.isPremium ? 'text-white' : 'text-blue-500'}`}>
+                        <h2 className={`text-3xl md:text-5xl font-black mb-6 ${service.isPremium ? 'text-white' : 'text-white'}`}>
                             {service.title}
                         </h2>
                         <p className="text-gray-300 text-lg mb-8 leading-relaxed">

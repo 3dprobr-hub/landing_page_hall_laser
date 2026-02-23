@@ -50,7 +50,7 @@ const Contact = () => {
                         whileInView={{ x: 0, opacity: 1 }}
                         viewport={{ once: true }}
                     >
-                        <h2 className="text-4xl font-black mb-12 text-blue-500">Fale Conosco</h2>
+                        <h2 className="text-4xl font-black mb-12 text-white">Fale Conosco</h2>
 
                         <div className="space-y-8">
                             <div className="flex items-start gap-4">
